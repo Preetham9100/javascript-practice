@@ -46,3 +46,32 @@ console.log(typeof stringNumber,stringNumber); //o/p=>string 33
 
 //*************************** Operations ************* 
 
+let value=7
+let negValue = -value
+console.log(negValue);
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2%2);
+// console.log(2**2);
+
+
+let str1="Hello"
+let str2="Preetham"
+
+let str3=str1+" "+str2
+console.log(str3);
+
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 3);
+// console.log(1 + 2 + "3");
+
+
+// console.log(+true); //o/p:1
+// console.log(+""); //o/p:0
+
